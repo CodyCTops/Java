@@ -23,5 +23,8 @@ public class UserMultiplication {
 
         //System Output
         System.out.println("\nThis equals: " + numThree);
+        
+        //close Scanner
+        scanner.close();
     }
 }
