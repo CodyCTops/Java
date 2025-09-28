@@ -16,5 +16,6 @@ public class Input {
 
         //output user input
         System.out.println("Username is: " + userName);
+        scanner.close();
     }
 }
