@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class BasicCalculations {
+public class basicCalculations {
     public static void main (String[] args) {
 
         //Scanner

@@ -1,6 +1,6 @@
 //Boolean returns true if value is less than 5
 
-public class Boolean {
+public class boolean {
     public static void simpleBool() {
         //variables
         int x = 5;

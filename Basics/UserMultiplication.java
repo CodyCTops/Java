@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class UserMultiplication {
+public class userMultiplication {
     public static void main(String[] args) {
 
         //Create Scanner
