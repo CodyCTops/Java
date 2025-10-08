@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//conditionals examples
 
 public class conditionals {
     public static void main(String[] args) {
@@ -19,7 +19,6 @@ public class conditionals {
         else {
             System.out.println("that wasn't an expected input!");
         }
-
 
         //switch
         switch (value) {
